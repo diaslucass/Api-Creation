@@ -17,4 +17,303 @@
         "vice": "Sport",
         "ano": 1989
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "id": 1,
+        "jogo_ida": "2x1",
+        "jogo_volta": "1x1",
+        "agregado": "3x2",
+        "campeao": "Corinthians",
+        "vice": "Brasiliense",
+        "ano": 2002
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x1",
+        "jogo_volta": "3x1",
+        "agregado": "4x2",
+        "campeao": "Cruzeiro",
+        "vice": "Flamengo",
+        "ano": 2003
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x2",
+        "jogo_volta": "0x2",
+        "agregado": "4x2",
+        "campeao": "Santo André",
+        "vice": "Flamengo",
+        "ano": 2004
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x0",
+        "jogo_volta": "0x0",
+        "agregado": "2x0",
+        "campeao": "Paulista",
+        "vice": "Fluminense",
+        "ano": 2005
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x0",
+        "jogo_volta": "0x1",
+        "agregado": "3x0",
+        "campeao": "Flamengo",
+        "vice": "Vasco",
+        "ano": 2006
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x1",
+        "jogo_volta": "0x1",
+        "agregado": "2x1",
+        "campeao": "Fluminense",
+        "vice": "Figueirense",
+        "ano": 2007
+    },
+    {
+        "id": 1,
+        "jogo_ida": "3x1",
+        "jogo_volta": "2x0",
+        "agregado": "3x3",
+        "campeao": "Sport",
+        "vice": "Corinthians",
+        "ano": 2008
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x0",
+        "jogo_volta": "2x2",
+        "agregado": "4x2",
+        "campeao": "Corinthians",
+        "vice": "Internacional",
+        "ano": 2009
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x0",
+        "jogo_volta": "2x1",
+        "agregado": "3x2",
+        "campeao": "Santos",
+        "vice": "Vitória",
+        "ano": 2010
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x0",
+        "jogo_volta": "3x2",
+        "agregado": "3x3",
+        "campeao": "Vasco da Gama",
+        "vice": "Coritiba",
+        "ano": 2011
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x0",
+        "jogo_volta": "1x1",
+        "agregado": "3x1",
+        "campeao": "Palmeiras",
+        "vice": "Coritiba",
+        "ano": 2012
+    }
+    {
+        "id": 1,
+        "jogo_ida": "1x1",
+        "jogo_volta": "2x0",
+        "agregado": "3x1",
+        "campeao": "Flamengo",
+        "vice": "Atlético Paranaense",
+        "ano": 2013
+    },
+    {
+        "id": 1,
+        "jogo_ida": "2x0",
+        "jogo_volta": "0x1",
+        "agregado": "3x0",
+        "campeao": "Atlético Mineiro",
+        "vice": "Cruzeiro",
+        "ano": 2014
+    }
+    {
+        "id": 1,
+        "jogo_ida": "1x0",
+        "jogo_volta": "2 (4)-(3) 1",
+        "agregado": "2 (4)-(3) 2 ",
+        "campeao": "Palmeiras",
+        "vice": "Santos",
+        "ano": 2015
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x3",
+        "jogo_volta": "1x1",
+        "agregado": "4x2 ",
+        "campeao": "Grêmio",
+        "vice": "Atlético Mineiro",
+        "ano": 2016
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x1",
+        "jogo_volta": "0 (5)-(3) 0",
+        "agregado": "1 (5)-(3) 1 ",
+        "campeao": "Cruzeiro",
+        "vice": "Flamengo",
+        "ano": 2017
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x0",
+        "jogo_volta": "1x2",
+        "agregado": "3x1",
+        "campeao": "Cruzeiro",
+        "vice": "Corinthians",
+        "ano": 2018
+    },
+    {
+        "id": 1,
+        "jogo_ida": "1x0",
+        "jogo_volta": "1x2",
+        "agregado": "3x1",
+        "campeao": "Athletico Paranaense",
+        "vice": "Internacional",
+        "ano": 2019
+    },
+    {
+        "id": 1,
+        "jogo_ida": "0x1",
+        "jogo_volta": "2x0",
+        "agregado": "3x0",
+        "campeao": "Palmeiras",
+        "vice": "Grêmio",
+        "ano": 2020
+    },
+    {
+        "id": 1,
+        "jogo_ida": "4x0",
+        "jogo_volta": "1x2",
+        "agregado": "6x1",
+        "campeao": "Atlético Mineiro",
+        "vice": "Atlético Paranaense",
+        "ano": 2021
+    },
+    {
+        "id": 1,
+        "jogo_ida": "0x0",
+        "jogo_volta": "1 (6)-(5) 1",
+        "agregado": "1 (6)-(5) 1",
+        "campeao": "Flamengo",
+        "vice": "Corinthians",
+        "ano": 2022
+    },
+    {
+        "id": 1,
+        "jogo_ida": "0x1",
+        "jogo_volta": "1x1",
+        "agregado": "2x1",
+        "campeao": "São Paulo",
+        "vice": "Flamengo",
+        "ano": 2023
+    }
 ]
