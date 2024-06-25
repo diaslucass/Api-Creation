@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "jogo_ida": "0x0",
+        "jogo_volta": "2x1",
+        "agregado": "2x1",
+        "campeao": "Grêmio",
+        "vice": "Sport",
+        "ano": 1989
+    }
+    {
+        "id": 2,
+        "jogo_ida": "0x0",
+        "jogo_volta": "2x1",
+        "agregado": "2x1",
+        "campeao": "Grêmio",
+        "vice": "Sport",
+        "ano": 1989
+    }
+]
