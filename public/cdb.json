@@ -7,14 +7,115 @@
         "campeao": "Grêmio",
         "vice": "Sport",
         "ano": 1989
-    }
+    },
     {
         "id": 2,
+        "jogo_ida": "1x0",
+        "jogo_volta": "0x0",
+        "agregado": "1x0",
+        "campeao": "Flamengo",
+        "vice": "Goiás",
+        "ano": 1990
+    },
+    {
+        "id": 3,
+        "jogo_ida": "1x1",
+        "jogo_volta": "0x0",
+        "agregado": "1x1",
+        "campeao": "Criciúma",
+        "vice": "Grêmio",
+        "ano": 1991
+    },
+    {
+        "id": 4,
+        "jogo_ida": "1x2",
+        "jogo_volta": "1x0",
+        "agregado": "2x2",
+        "campeao": "Internacional",
+        "vice": "Fluminense",
+        "ano": 1992
+    },
+    {
+        "id": 5,
+        "jogo_ida": "0x0'",
+        "jogo_volta": "2x1",
+        "agregado": "2x1",
+        "campeao": "Cruzeiro",
+        "vice": "Grêmio",
+        "ano": 1993
+    },
+    {
+        "id": 6,
+        "jogo_ida": "0x0",
+        "jogo_volta": "0x0",
+        "agregado": "1x0",
+        "campeao": "Grêmio",
+        "vice": "Ceará",
+        "ano": 1994
+    },
+    {
+        "id": 7,
+        "jogo_ida": "2x1",
+        "jogo_volta": "1x0",
+        "agregado": "2x2",
+        "campeao": "Corinthians",
+        "vice": "Grêmio",
+        "ano": 1995
+    },
+    {
+        "id": 8,
+        "jogo_ida": "1x1",
+        "jogo_volta": "2x1",
+        "agregado": "3x1",
+        "campeao": "Cruzeiro",
+        "vice": "Palmeiras",
+        "ano": 1996
+    },
+    {
+        "id": 9,
+        "jogo_ida": "0x0",
+        "jogo_volta": "2x2",
+        "agregado": "2x2",
+        "campeao": "Grêmio",
+        "vice": "Flamengo",
+        "ano": 1997
+    },
+    {
+        "id": 10,
+        "jogo_ida": "0x1",
+        "jogo_volta": "2x0",
+        "agregado": "2x1",
+        "campeao": "Palmeiras",
+        "vice": "Cruzeiro",
+        "ano": 1998
+    },
+    {
+        "id": 11,
+        "jogo_ida": "2x1",
+        "jogo_volta": "0x0",
+        "agregado": "2x1",
+        "campeao": "Juventude",
+        "vice": "Botafogo",
+        "ano": 1999
+    },
+    {
+        "id": 12,
         "jogo_ida": "0x0",
         "jogo_volta": "2x1",
         "agregado": "2x1",
+        "campeao": "Cruzeiro",
+        "vice": "São Paulo",
+        "ano": 2000
+    },
+    {
+        "id": 13,
+        "jogo_ida": "2x2",
+        "jogo_volta": "3x1",
+        "agregado": "5x3",
         "campeao": "Grêmio",
-        "vice": "Sport",
-        "ano": 1989
-    }
+        "vice": "Corinthians",
+        "ano": 2001
+    },
+    
+    
 ]
