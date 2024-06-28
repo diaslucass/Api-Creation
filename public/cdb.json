@@ -116,7 +116,7 @@
         "vice": "Corinthians",
         "ano": 2001
     },{
-        "id": 1,
+        "id": 14,
         "jogo_ida": "2x1",
         "jogo_volta": "1x1",
         "agregado": "3x2",
@@ -125,7 +125,7 @@
         "ano": 2002
     },
     {
-        "id": 1,
+        "id": 15,
         "jogo_ida": "1x1",
         "jogo_volta": "3x1",
         "agregado": "4x2",
@@ -134,7 +134,7 @@
         "ano": 2003
     },
     {
-        "id": 1,
+        "id": 16,
         "jogo_ida": "2x2",
         "jogo_volta": "0x2",
         "agregado": "4x2",
@@ -143,7 +143,7 @@
         "ano": 2004
     },
     {
-        "id": 1,
+        "id": 17,
         "jogo_ida": "2x0",
         "jogo_volta": "0x0",
         "agregado": "2x0",
@@ -152,7 +152,7 @@
         "ano": 2005
     },
     {
-        "id": 1,
+        "id": 18,
         "jogo_ida": "2x0",
         "jogo_volta": "0x1",
         "agregado": "3x0",
@@ -161,7 +161,7 @@
         "ano": 2006
     },
     {
-        "id": 1,
+        "id": 19,
         "jogo_ida": "1x1",
         "jogo_volta": "0x1",
         "agregado": "2x1",
@@ -170,7 +170,7 @@
         "ano": 2007
     },
     {
-        "id": 1,
+        "id": 20,
         "jogo_ida": "3x1",
         "jogo_volta": "2x0",
         "agregado": "3x3",
@@ -179,7 +179,7 @@
         "ano": 2008
     },
     {
-        "id": 1,
+        "id": 21,
         "jogo_ida": "2x0",
         "jogo_volta": "2x2",
         "agregado": "4x2",
@@ -188,7 +188,7 @@
         "ano": 2009
     },
     {
-        "id": 1,
+        "id": 22,
         "jogo_ida": "2x0",
         "jogo_volta": "2x1",
         "agregado": "3x2",
@@ -197,7 +197,7 @@
         "ano": 2010
     },
     {
-        "id": 1,
+        "id": 23,
         "jogo_ida": "1x0",
         "jogo_volta": "3x2",
         "agregado": "3x3",
@@ -206,16 +206,16 @@
         "ano": 2011
     },
     {
-        "id": 1,
+        "id": 24,
         "jogo_ida": "2x0",
         "jogo_volta": "1x1",
         "agregado": "3x1",
         "campeao": "Palmeiras",
         "vice": "Coritiba",
         "ano": 2012
-    }
+    },
     {
-        "id": 1,
+        "id": 25,
         "jogo_ida": "1x1",
         "jogo_volta": "2x0",
         "agregado": "3x1",
@@ -224,16 +224,16 @@
         "ano": 2013
     },
     {
-        "id": 1,
+        "id": 26,
         "jogo_ida": "2x0",
         "jogo_volta": "0x1",
         "agregado": "3x0",
         "campeao": "Atlético Mineiro",
         "vice": "Cruzeiro",
         "ano": 2014
-    }
+    },
     {
-        "id": 1,
+        "id": 27,
         "jogo_ida": "1x0",
         "jogo_volta": "2 (4)-(3) 1",
         "agregado": "2 (4)-(3) 2 ",
@@ -242,7 +242,7 @@
         "ano": 2015
     },
     {
-        "id": 1,
+        "id": 28,
         "jogo_ida": "1x3",
         "jogo_volta": "1x1",
         "agregado": "4x2 ",
@@ -251,7 +251,7 @@
         "ano": 2016
     },
     {
-        "id": 1,
+        "id": 29,
         "jogo_ida": "1x1",
         "jogo_volta": "0 (5)-(3) 0",
         "agregado": "1 (5)-(3) 1 ",
@@ -260,7 +260,7 @@
         "ano": 2017
     },
     {
-        "id": 1,
+        "id": 30,
         "jogo_ida": "1x0",
         "jogo_volta": "1x2",
         "agregado": "3x1",
@@ -269,7 +269,7 @@
         "ano": 2018
     },
     {
-        "id": 1,
+        "id": 31,
         "jogo_ida": "1x0",
         "jogo_volta": "1x2",
         "agregado": "3x1",
@@ -278,7 +278,7 @@
         "ano": 2019
     },
     {
-        "id": 1,
+        "id": 32,
         "jogo_ida": "0x1",
         "jogo_volta": "2x0",
         "agregado": "3x0",
@@ -287,7 +287,7 @@
         "ano": 2020
     },
     {
-        "id": 1,
+        "id": 33,
         "jogo_ida": "4x0",
         "jogo_volta": "1x2",
         "agregado": "6x1",
@@ -296,7 +296,7 @@
         "ano": 2021
     },
     {
-        "id": 1,
+        "id": 34,
         "jogo_ida": "0x0",
         "jogo_volta": "1 (6)-(5) 1",
         "agregado": "1 (6)-(5) 1",
@@ -305,7 +305,7 @@
         "ano": 2022
     },
     {
-        "id": 1,
+        "id": 35,
         "jogo_ida": "0x1",
         "jogo_volta": "1x1",
         "agregado": "2x1",
