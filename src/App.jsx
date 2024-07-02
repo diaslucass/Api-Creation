@@ -20,10 +20,16 @@ function App() {
   return (
     <>
       <header>
-        <h1>Copa do Brasil</h1>
+        <p><img src="copa-do-brasil-logo-1.png" alt="" srcset="" /></p>
+        <div className="title">
+        <h1 id='title'>Copa do Brasil</h1>
+        <h2 id='subtitle'>aaaaaaaaa</h2>
+        </div>
+        
       </header>
       <main>
         <div className="container">
+
           {jogos.map(jogo => (
             <div key={jogo.id} className="jogo">
               <h2>{jogo.ano}</h2>
@@ -34,6 +40,7 @@ function App() {
               <p>Agregado: {jogo.agregado}</p>
             </div>
           ))}
+            
         </div>
       </main>
     </>
