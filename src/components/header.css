@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    color: rgb(247, 203, 11);
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--blue-gray);
+}
+
+#title {
+    text-align: center;
+
+}
