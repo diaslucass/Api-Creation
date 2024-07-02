@@ -29,15 +29,7 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 
-header{
-  width: 100%;
-  color: rgb(247, 203, 11);
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--blue-gray);
-}
+
 
 main{
   min-height: 100vh;
@@ -49,14 +41,7 @@ img{
   width: 50px;
 }
 
-#title{
- text-align: center;
- 
-}
 
-#subtitlte{
-
-}
 
 .container{
   padding-top: 30px;
