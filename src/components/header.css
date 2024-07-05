@@ -1,14 +1,29 @@
 header {
     width: 100%;
     color: rgb(247, 203, 11);
-    height: 140px;
+    height: 180px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 20px 0px;
     background-color: var(--blue-gray);
 }
 
 #title {
     text-align: center;
 
+}
+
+.buttons{
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn{
+    border: 2px solid gray;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
 }

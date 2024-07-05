@@ -1,20 +1,13 @@
-import { useState, useEffect } from 'react';
 import './App.css';
-import { fetchCBD } from './services/api';
-import Header from './components/header';
-import Finalistas from './services/finalista';
+import Final from './pages/finalistas/final';
 
 function App() {
   
 
   return (
     <>
-      <Header />
-      <button></button>
-      <main>
-        <Finalistas />
-        
-      </main>
+      <Final />
+      
     </>
   );
 }
