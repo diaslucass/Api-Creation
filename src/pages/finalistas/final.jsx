@@ -4,15 +4,13 @@ import Finalistas from '../../services/finalista';
 
 function Final() {
     return (
-    <>
-      <Header />
-      
-      <main>
-        <Finalistas />
-        
-      </main>
-    </>
-  );
+        <>
+            <Header />
+            <main>
+                <Finalistas />
+            </main>
+        </>
+    );
 }
 
 export default Final;

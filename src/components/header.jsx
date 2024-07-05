@@ -1,5 +1,7 @@
 import './header.css'
-
+import { Route } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
+// import Campeoes from '../pages/MCampeoes/campeoes'
 
 function Header() {
   return (
@@ -10,7 +12,8 @@ function Header() {
         <h2 id='subtitle'>Venha conhecer todos os finalistas de um dos maiores campeonatos do Brasil </h2>
 
         <div className="buttons">
-          <button className="btn btn-primary">Finalistas</button>
+          {/* <Link to="/Mcampeoes">
+          <button className="btn btn-primary">Finalistas</button> </Link> */}
           <button className="btn btn-primary">Maiores Campeões</button>
         </div>
       </div>
