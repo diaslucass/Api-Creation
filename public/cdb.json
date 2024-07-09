@@ -1,4 +1,5 @@
-    [
+
+  [
         {
             "id": 1,
             "jogo_ida": "0x0",
@@ -266,6 +267,7 @@
             "agregado": "3x1",
             "vice": "Corinthians",
             "campeao": "Cruzeiro",
+            "img" : "https://s2-ge.glbimg.com/RrdS0pGruS3UfkrJHJvusTRj6u8=/0x0:622x514/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/x/R/Bsri4lSPGQCnu27ULFjQ/cruzeiro-escudo.png",
             "ano": 2018
         },
         {
