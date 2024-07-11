@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react';
-import './App.css';
-import { fetchTopWinners } from './services/api';
+import { fetchTopWinners } from '../../services/api';
 
-function Winners() {
+function Campeoes() {
   const [winners, setWinners] = useState([]);
 
   useEffect(() => {
@@ -36,4 +35,6 @@ function Winners() {
   );
 }
 
-export default Winners;
+export default Campeoes;
+
+

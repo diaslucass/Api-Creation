@@ -314,6 +314,15 @@
             "campeao": "São Paulo",
             "vice": "Flamengo",
             "ano": 2023
+        },
+        {
+            "id": 36,
+            "jogo_ida": "0x1",
+            "jogo_volta": "1x1",
+            "agregado": "2x1",
+            "campeao": "São Paulo",
+            "vice": "Flamengo",
+            "ano": 2024
         }
     ]
         
