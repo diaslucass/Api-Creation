@@ -33,6 +33,7 @@ function Vencedores() {
           {winners.map(winner => (
             <div key={winner.team} className="winner">
               <h2>{winner.team}</h2>
+              <img src={winner.img} alt="" srcset="" />
               <p>Títulos: {winner.wins}</p>
             </div>
           ))}

@@ -389,11 +389,18 @@
             "jogo_ida": "0x1",
             "jogo_volta": "1x1",
             "agregado": "2x1",
-            "campeao": "São Paulo",
-            "vice": "Flamengo",
+            "campeao": "???",
+            "vice": "???",
             "ano": 2024
+        },
+        {
+            "cruzeiro": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
+            "corinthians": 
         }
+        
     ]
+
+
         
         
         
