@@ -25,7 +25,7 @@ function Vencedores() {
         
       </header>
       <div className="buttons">
-          <Link to="/">Finalistas</Link>
+          <Link to="/" className='btn'>Finalistas</Link>
           <Link to="/campeoes" className="btn btn-primary">Maiores Campeões</Link>
         </div>
       <main>

@@ -26,11 +26,11 @@ function Final() {
                     {jogos.map(jogo => (
                         <div key={jogo.id} className="jogo">
                             <h2>{jogo.ano}</h2>
-                            <p>Campeão: {jogo.campeao} <img src={jogo.imgCampeao} alt="" /> </p>
-                            <p>Vice: {jogo.vice} <img src={jogo.imgVice} alt="" /></p>
-                            <p>Jogo de Ida: {jogo.jogo_ida}</p>
-                            <p>Jogo de Volta: {jogo.jogo_volta}</p>
-                            <p>Agregado: {jogo.agregado}</p>
+                            <p><span>Campeão:</span>  <span>{jogo.campeao} <img src={jogo.imgCampeao} alt="" /></span> </p>
+                            <p><span>Vice:</span>   <span>{jogo.vice} <img src={jogo.imgVice} alt="" /></span></p>
+                            <p><span>Jogo de Ida:</span> <span>{jogo.jogo_ida}</span></p>
+                            <p><span>Jogo de Volta: </span> <span>{jogo.jogo_volta}</span></p>
+                            <p><span>Agregado:</span> <span>{jogo.agregado}</span></p>
                         </div>
                     ))}
                 </div>

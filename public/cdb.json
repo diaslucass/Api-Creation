@@ -19,7 +19,8 @@
             "vice": "Goiás",
             "imgCampeao" : "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png",
             "imgVice" : "https://www.goiasec.com.br/wp-content/uploads/2021/04/ESCUDO-OFICIAL-PANTONE-3537C.png",
-            "ano": 1990
+            "ano": 1990,
+            "goias": "https://www.goiasec.com.br/wp-content/uploads/2021/04/ESCUDO-OFICIAL-PANTONE-3537C.png"
         },
         {
             "id": 3,
@@ -30,7 +31,8 @@
             "vice": "Grêmio",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/2560px-EscudoCriciumaEC.svg.png",
             "imgVice" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionBSXMDA8BUyJsylIYlPq_OKzfgSb9VHczGyINlzqoTdnjLZMljcLp7Fn-F3nvaZKngjObmSRrWLeM39kOAqqp2mXfSoi1xUz38LS-WvfNVE-hlrHDJg_sAizwuo9JFxzYhTSmCgsFfWb/s320/gremio-logo-escudo-17.png",
-            "ano": 1991
+            "ano": 1991,
+            "criciuma" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/2560px-EscudoCriciumaEC.svg.png"
         },
         {
             "id": 4,
@@ -63,7 +65,8 @@
             "vice": "Ceará",
             "imgCampeao": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionBSXMDA8BUyJsylIYlPq_OKzfgSb9VHczGyINlzqoTdnjLZMljcLp7Fn-F3nvaZKngjObmSRrWLeM39kOAqqp2mXfSoi1xUz38LS-WvfNVE-hlrHDJg_sAizwuo9JFxzYhTSmCgsFfWb/s320/gremio-logo-escudo-17.png",
             "imgVice": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/1845px-Cear%C3%A1_Sporting_Club_logo.svg.png",
-            "ano": 1994
+            "ano": 1994,
+            "ceara" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/1845px-Cear%C3%A1_Sporting_Club_logo.svg.png"
         },
         {
             "id": 7,
@@ -118,7 +121,9 @@
             "vice": "Botafogo",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/commons/9/9e/Juventude_pika.png",    
             "imgVice" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Escudo_Botafogo.png/800px-Escudo_Botafogo.png",
-            "ano": 1999
+            "ano": 1999,
+            "juventude": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Juventude_pika.png",
+            "botafogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Escudo_Botafogo.png/800px-Escudo_Botafogo.png"
         },
         {
             "id": 12,
@@ -150,7 +155,8 @@
             "vice": "Brasiliense",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/pt/3/3a/Brasiliense_Futebol_Clube.png",
-            "ano": 2002
+            "ano": 2002,
+            "braziliense" : "https://upload.wikimedia.org/wikipedia/pt/3/3a/Brasiliense_Futebol_Clube.png"
         },
         {
             "id": 15,
@@ -172,7 +178,8 @@
             "vice": "Flamengo",
             "imgCampeao": "https://upload.wikimedia.org/wikipedia/pt/5/50/Santo_Andre_escudo.png",
             "imgVice": "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png",
-            "ano": 2004
+            "ano": 2004,
+            "santoandre" : "https://upload.wikimedia.org/wikipedia/pt/5/50/Santo_Andre_escudo.png"
         },
         {
             "id": 17,
@@ -183,7 +190,8 @@
             "vice": "Fluminense",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/pt/0/06/PaulistaFC.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png",
-            "ano": 2005
+            "ano": 2005,
+            "paulista" : "https://upload.wikimedia.org/wikipedia/pt/0/06/PaulistaFC.png"
         },
         {
             "id": 18,
@@ -194,7 +202,8 @@
             "vice": "Vasco",
             "imgCampeao": "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png",
             "imgVice" : "https://i.pinimg.com/originals/5c/dc/2d/5cdc2d23ea1c69314c10e063a1bf6f11.png",
-            "ano": 2006
+            "ano": 2006,
+            "vasco" : "https://i.pinimg.com/originals/5c/dc/2d/5cdc2d23ea1c69314c10e063a1bf6f11.png"
         },
         {
             "id": 19,
@@ -205,7 +214,9 @@
             "vice": "Figueirense",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/pt/7/7b/Figueirense.png",
-            "ano": 2007
+            "ano": 2007,
+            "fluminense": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png",
+            "figueirense": "https://upload.wikimedia.org/wikipedia/pt/7/7b/Figueirense.png"
         },
         {
             "id": 20,
@@ -216,7 +227,8 @@
             "vice": "Corinthians",
             "imgCampeao" : "https://logodownload.org/wp-content/uploads/2017/02/sport-recife-logo-escudo-2.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
-            "ano": 2008
+            "ano": 2008,
+            "sport" : "https://logodownload.org/wp-content/uploads/2017/02/sport-recife-logo-escudo-2.png"
         },
         {
             "id": 21,
@@ -238,7 +250,8 @@
             "vice": "Vitória",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_Logo.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png",
-            "ano": 2010
+            "ano": 2010,
+            "vitoria" : "https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png"
         },
         {
             "id": 23,
@@ -260,7 +273,8 @@
             "vice": "Coritiba",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png",
             "imgVice" : "https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png",
-            "ano": 2012
+            "ano": 2012,
+            "coritiba" : "https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png"
         },
         {
             "id": 25,
@@ -293,8 +307,8 @@
             "vice": "Santos",
             "imgCampeao": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_Logo.png",
-
-            "ano": 2015
+            "ano": 2015,
+            "santos" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_Logo.png"
         },
         {
             "id": 28,
@@ -327,7 +341,8 @@
             "campeao": "Cruzeiro",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Cruzeiro_1996.png",
-            "ano": 2018
+            "ano": 2018,
+            "cruzeiro": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png"
         },
         {
             "id": 31,
@@ -338,7 +353,8 @@
             "vice": "Internacional",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Escudo_do_Sport_Club_Internacional.svg/2048px-Escudo_do_Sport_Club_Internacional.svg.png",
-            "ano": 2019
+            "ano": 2019,
+            "internacional": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Escudo_do_Sport_Club_Internacional.svg/2048px-Escudo_do_Sport_Club_Internacional.svg.png"
         },
         {
             "id": 32,
@@ -349,7 +365,9 @@
             "vice": "Grêmio",
             "imgCampeao" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png",
             "imgVice" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionBSXMDA8BUyJsylIYlPq_OKzfgSb9VHczGyINlzqoTdnjLZMljcLp7Fn-F3nvaZKngjObmSRrWLeM39kOAqqp2mXfSoi1xUz38LS-WvfNVE-hlrHDJg_sAizwuo9JFxzYhTSmCgsFfWb/s320/gremio-logo-escudo-17.png",
-            "ano": 2020
+            "ano": 2020,
+            "palmeiras": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png",
+            "gremio": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionBSXMDA8BUyJsylIYlPq_"
         },
         {
             "id": 33,
@@ -358,9 +376,11 @@
             "agregado": "6x1",
             "campeao": "Atlético Mineiro",
             "vice": "Atlético Paranaense",
-            "imgCampeao": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionBSXMDA8BUyJsylIYlPq_OKzfgSb9VHczGyINlzqoTdnjLZMljcLp7Fn-F3nvaZKngjObmSRrWLeM39kOAqqp2mXfSoi1xUz38LS-WvfNVE-hlrHDJg_sAizwuo9JFxzYhTSmCgsFfWb/s320/gremio-logo-escudo-17.png",
+            "imgCampeao": "https://seeklogo.com/images/A/atletico-mineiro-logo-C3AC373133-seeklogo.com.png",
             "imgVice" : "https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png",
-            "ano": 2021
+            "ano": 2021,
+            "atlético_mineiro": "https://seeklogo.com/images/A/atletico-mineiro-logo-C3AC373133-seeklogo.com.png",
+            "atlético_paranaense": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png"
         },
         {
             "id": 34,
@@ -371,7 +391,8 @@
             "vice": "Corinthians",
             "imgCampeao" : "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png",
             "imgVice": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
-            "ano": 2022
+            "ano": 2022,
+            "corinthians": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png"
         },
         {
             "id": 35,
@@ -382,7 +403,9 @@
             "vice": "Flamengo",
             "imgCampeao" : "https://i.pinimg.com/originals/19/d6/ac/19d6ac409280da20e4bc3a677b2828eb.png",
             "imgVice" : "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png",
-            "ano": 2023
+            "ano": 2023,
+            "flamengo": "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png",
+            "sao_paulo": "https://i.pinimg.com/originals/19/d6/ac/19d6ac409280da20e4bc3a677b2828eb.png"
         },
         {
             "id": 36,
@@ -394,8 +417,100 @@
             "ano": 2024
         },
         {
-            "cruzeiro": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png",
-            "corinthians": 
+            "id": 37,
+            "flamengo": "https://imagepng.org/wp-content/uploads/2018/02/escudo-flamengo.png"
+        },
+        {
+            "id": 38,
+            "sao_paulo": "https://i.pinimg.com/originals/19/d6/ac/19d6ac409280da20e4bc3a677b2828eb.png"
+        },
+        {
+            "id": 39,
+            "corinthians": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png"
+        },
+        {
+            "id": 40,
+            "atlético_mineiro": "https://seeklogo.com/images/A/atletico-mineiro-logo-C3AC373133-seeklogo.com.png"
+        },
+        {
+            "id": 41,
+            "atlético_paranaense": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png"
+        },
+        {
+            "id": 42,
+            "palmeiras": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png"
+        },
+        {
+            "id": 43,
+            "gremio": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionBSXMDA8BUyJsylIYlPq_"
+        },    
+        {
+            "id": 44,
+            "internacional": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Escudo_do_Sport_Club_Internacional.svg/2048px-Escudo_do_Sport_Club_Internacional.svg.png"
+        },
+        {
+            "id": 45,
+            "cruzeiro": "https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png"
+        },
+        {
+            "id": 46,
+            "santos" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_Logo.png"
+        },
+        {
+            "id": 47,
+            "coritiba" : "https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png"
+        },
+        {
+            "id": 48,
+            "vitoria" : "https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png"
+        },
+        {
+            "id": 49,
+            "sport" : "https://logodownload.org/wp-content/uploads/2017/02/sport-recife-logo-escudo-2.png"
+        },
+        {
+            "id": 50,
+            "figueirense": "https://upload.wikimedia.org/wikipedia/pt/7/7b/Figueirense.png"
+        },
+        {
+            "id": 51,
+            "vasco" : "https://i.pinimg.com/originals/5c/dc/2d/5cdc2d23ea1c69314c10e063a1bf6f11.png"
+        },
+        {
+            "id": 52,
+            "fluminense": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png"
+        },
+        {
+            "id": 53,
+            "paulista" : "https://upload.wikimedia.org/wikipedia/pt/0/06/PaulistaFC.png"
+        },
+        {
+            "id": 54,
+            "goias": "https://www.goiasec.com.br/wp-content/uploads/2021/04/ESCUDO-OFICIAL-PANTONE-3537C.png"
+        },
+        {
+            "id": 55,
+            "criciuma" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/2560px-EscudoCriciumaEC.svg.png"
+        },
+        {
+            "id": 56,
+            "ceara" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/1845px-Cear%C3%A1_Sporting_Club_logo.svg.png"
+        },
+        {
+            "id": 57,
+            "juventude": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Juventude_pika.png"
+        },
+        {
+            "id": 58,
+            "botafogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Escudo_Botafogo.png/800px-Escudo_Botafogo.png"
+        },
+        {
+            "id": 59,
+            "braziliense" : "https://upload.wikimedia.org/wikipedia/pt/3/3a/Brasiliense_Futebol_Clube.png"
+        },
+        {
+            "id": 60,
+            "santoandre" : "https://upload.wikimedia.org/wikipedia/pt/5/50/Santo_Andre_escudo.png"
         }
         
     ]
