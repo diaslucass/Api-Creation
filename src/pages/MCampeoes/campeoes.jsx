@@ -27,6 +27,7 @@ function Vencedores() {
       <div className="buttons">
           <Link to="/" className='btn'>Finalistas</Link>
           <Link to="/campeoes" className="btn btn-primary">Maiores Campeões</Link>
+          <Link to="/curiosidades" className="btn btn-sec">Curiosidades</Link>
         </div>
       <main>
         <div className="container">
@@ -35,6 +36,16 @@ function Vencedores() {
               <h2>{winner.team}</h2>
               <img src={winner.img} alt="" srcset="" />
               <p>Títulos: {winner.wins}</p>
+              <p>
+                <ul>
+                <li>"COlOCAR ANO DOS TITULOS"</li>
+                <li>"COlOCAR ANO DOS TITULOS"</li>
+                <li>"COlOCAR ANO DOS TITULOS"</li>
+                <li>"COlOCAR ANO DOS TITULOS"</li>
+                <li>"COlOCAR ANO DOS TITULOS"</li>
+                  <li>"COlOCAR ANO DOS TITULOS"</li>
+                </ul>
+              </p>
             </div>
           ))}
         </div>

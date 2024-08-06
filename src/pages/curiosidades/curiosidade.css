@@ -1,0 +1,15 @@
+header{
+    width: 100%;
+    color: rgb(247, 203, 11);
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+    background-color: var(--blue-gray);
+}
+
+.todas-curiosidades{
+   
+}
+
