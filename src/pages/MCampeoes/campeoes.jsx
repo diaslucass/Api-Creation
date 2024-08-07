@@ -7,7 +7,7 @@ function Vencedores() {
   const [winners, setWinners] = useState([]);
 
   useEffect(() => {
-    const loadWinners = async () => {   
+    const loadWinners = async () => {
       try {
         const topWinners = await fetchTopWinners();
         setWinners(topWinners);
@@ -20,32 +20,29 @@ function Vencedores() {
 
   return (
     <>
-      <header>
+      <header className='cab'>
         <h1>Maiores Vencedores da Copa do Brasil</h1>
-        
-      </header>
-      <div className="buttons">
+        <div className="buttonss">
           <Link to="/" className='btn'>Finalistas</Link>
           <Link to="/campeoes" className="btn btn-primary">Maiores Campeões</Link>
-          <Link to="/curiosidades" className="btn btn-sec">Curiosidades</Link>
+          <Link to="/vices" className="btn btn-sec">Maiores Vices</Link>
         </div>
+      </header>
+
       <main>
-        <div className="container">
+        <div className="container2">
           {winners.map(winner => (
             <div key={winner.team} className="winner">
               <h2>{winner.team}</h2>
-              <img src={winner.img} alt="" srcset="" />
-              <p>Títulos: {winner.wins}</p>
-              <p>
-                <ul>
-                <li>"COlOCAR ANO DOS TITULOS"</li>
-                <li>"COlOCAR ANO DOS TITULOS"</li>
-                <li>"COlOCAR ANO DOS TITULOS"</li>
-                <li>"COlOCAR ANO DOS TITULOS"</li>
-                <li>"COlOCAR ANO DOS TITULOS"</li>
-                  <li>"COlOCAR ANO DOS TITULOS"</li>
-                </ul>
-              </p>
+              <div className="img">
+              <img src={winner.img} alt={winner.team} /></div>
+              <p id='cont'>Títulos: {winner.wins}</p>
+              <p id='cont'>Anos dos títulos:</p>
+              <ul>
+                {winner.years.map(year => (
+                  <li key={year}>{year}</li>
+                ))}
+              </ul>
             </div>
           ))}
         </div>

@@ -11,7 +11,7 @@ function Header() {
 
           <Link to="/" className='btn'>Finalistas</Link>
           <Link to="/campeoes" className="btn btn-primary">Maiores Campeões</Link>
-          <Link to="/curiosidades" className='btn btn-sec'>Curiosidades</Link>
+          <Link to="/vices" className='btn btn-sec'>Maiores Vices</Link>
           
         </div>
       </div>
